@@ -6,7 +6,7 @@ A simple project to practice/demonstrate simple concepts in HTML and CSS
 
 ## Online Demo ☁️
 
-You can see an online demo of this project through this link: https://card-git-main-ruantsdo.vercel.app, or if you prefer, run it directly from your computer.
+You can see an online demo of this project through this link: card-sand.vercel.app, or if you prefer, run it directly from your computer.
 
 
 ## Requirements ⚙️
