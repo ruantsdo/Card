@@ -41,11 +41,7 @@ Start the server
 npm run dev
 ```
 
-Connect to the local server
-
-```bash
-Connect to the sample address on your console.
-```
+> Para abrir o projeto em seu navegador, você deve acessar o endereço mostrado em seu console.
 
 
 ## Technologies used ⚡
@@ -58,3 +54,4 @@ Connect to the sample address on your console.
 ## Authors 👥
 - [@ruantsdo](https://github.com/ruantsdo)
 - [@Jhonatanmizu](https://github.com/Jhonatanmizu)
+
