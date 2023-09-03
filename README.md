@@ -4,9 +4,14 @@
 A simple project to practice/demonstrate simple concepts in HTML and CSS
 
 
+## Online Demo ☁️
+
+You can see an online demo of this project through this link: https://card-git-main-ruantsdo.vercel.app, or if you prefer, run it directly from your computer.
+
+
 ## Requirements ⚙️
 
-- To run the project you must have NODE installed on your machine. 
+- To run the project you must have **NODE.JS** installed on your machine. 
 - To view/edit the code you must have a text editor installed, such as VSCODE for example.
 
 
@@ -53,4 +58,3 @@ Connect to the sample address on your console.
 ## Authors 👥
 - [@ruantsdo](https://github.com/ruantsdo)
 - [@Jhonatanmizu](https://github.com/Jhonatanmizu)
-
