@@ -41,7 +41,7 @@ Start the server
 npm run dev
 ```
 
-> Para abrir o projeto em seu navegador, você deve acessar o endereço mostrado em seu console.
+> To open the project in your browser, you must access the address shown in your console.
 
 
 ## Technologies used ⚡
