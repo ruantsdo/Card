@@ -46,10 +46,7 @@ npm run dev
 
 ## Technologies used ⚡
 
-**Front-end:** Html, Css
-
-**Back-end:** Vite
-
+**Front-end:** Vite
 
 ## Authors 👥
 - [@ruantsdo](https://github.com/ruantsdo)
